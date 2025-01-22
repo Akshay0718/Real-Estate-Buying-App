@@ -1287,6 +1287,11 @@ button, a { transition: var(--transition); }
     height: 50px;
     box-shadow: var(--shadow-2);
   }
+  .logo {
+    width : 20px;
+    height: 20px;
+  }
+    
 
 
 
