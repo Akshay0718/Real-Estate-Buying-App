@@ -1288,8 +1288,8 @@ button, a { transition: var(--transition); }
     box-shadow: var(--shadow-2);
   }
   .logo {
-    width : 3px;
-    height: 3px;
+    width : 6px;
+    height: 6px;
   }
     
 
